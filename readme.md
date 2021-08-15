@@ -12,5 +12,5 @@ getArMemes("image");
 
 ## Authors
 
-- The Api from <a href="https://github.com/1TGDev">Tariq</a>, His website <a href="https://itariq.dev">here</a>. < check out his awsome staff.
+- The Api from <a href="https://github.com/1TGDev">Tariq</a>, His website <a href="https://itariq.dev">here</a>. < check out his awsome stuff.
 - JavaScript Scapper from <a href="https://github.com/tyizo">Tyizo</a>.
